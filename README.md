@@ -1,2 +1,2 @@
 # TA_course
-course example
+examples of datastructure course(NSYSU MATH208)
