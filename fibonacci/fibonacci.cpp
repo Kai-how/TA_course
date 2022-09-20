@@ -1,6 +1,6 @@
 #include<iostream>  
 #include<cstdlib>  
-#include<ctime>   /* ®É¶¡¨ç¼Æ */
+#include<ctime>   /* time function */
 //#include<sys/time.h> /*gettimeofday*/
 using namespace std;
 
