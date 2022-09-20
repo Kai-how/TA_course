@@ -1,6 +1,6 @@
 #include<iostream>  
 #include<cstdlib>  
-#include<ctime>   /* 時間相關函數 */
+#include<ctime>   /* 時間函數 */
 //#include<sys/time.h> /*gettimeofday*/
 using namespace std;
 
